@@ -1,12 +1,12 @@
 %%%-------------------------------------------------------------------
-%%% @author licheng5
+%%% @author xudong12
 %%% @copyright (C) 2020, <COMPANY>
 %%% @doc
 %%%
 %%% @end
 %%% Created : 24. 7月 2020 2:32 下午
 %%%-------------------------------------------------------------------
--author("licheng5").
+-author("xudong12").
 
 -record(location, {
 	url_regexp :: string(),

@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author licheng5
+%%% @author xudong12
 %%% @copyright (C) 2020, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 26. 4月 2020 3:36 下午
 %%%-------------------------------------------------------------------
 -module(http_handler).
--author("licheng5").
+-author("xudong12").
 -include("ebroker.hrl").
 -define(MAX_TIMEOUT, 5000).
 

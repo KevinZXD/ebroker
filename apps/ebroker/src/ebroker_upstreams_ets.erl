@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author licheng5
+%%% @author xudong12
 %%% @copyright (C) 2020, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 26. 4月 2020 10:58 上午
 %%%-------------------------------------------------------------------
 -module(ebroker_upstreams_ets).
--author("licheng5").
+-author("xudong12").
 -define(TAB_NAME, ebroker_upstreams_ets_tab).
 
 %% API

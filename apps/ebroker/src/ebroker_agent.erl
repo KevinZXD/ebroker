@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author licheng5
+%%% @author xudong12
 %%% @copyright (C) 2020, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 04. 8月 2020 2:31 下午
 %%%-------------------------------------------------------------------
 -module(ebroker_agent).
--author("licheng5").
+-author("xudong12").
 -include("ebroker.hrl").
 
 -behaviour(gen_statem).
