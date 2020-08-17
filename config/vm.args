@@ -1,0 +1,9 @@
+-sname ebroker
+
+-setcookie ebroker_cookie
+
+-smp enable
+
++K true
++A30
++P 1048576

@@ -1,0 +1,23 @@
+{application, ebroker,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { ebroker_app, []}},
+  {applications,
+   [
+    cowboy,
+    lager,
+    hackney,
+    jiffy,
+    sync,
+    inets,
+    kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
